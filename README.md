@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/4f52123e-28e4-4583-9c0f-7a74c62e39ad
+
 # IoT-Based Continuous Vital Monitoring System
 
 
