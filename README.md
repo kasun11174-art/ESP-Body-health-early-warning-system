@@ -1,4 +1,10 @@
+
+https://github.com/user-attachments/assets/4f52123e-28e4-4583-9c0f-7a74c62e39ad
 # IoT-Based Continuous Vital Monitoring System
+
+
+https://github.com/user-attachments/assets/62f532dc-cbbe-45df-be46-ab22c220050f
+
 
 This project implements a wearable health monitoring system using an ESP32 microcontroller, MAX30105 optical sensor, and OLED display. It continuously measures heart rate (HR), body temperature, and displays readings locally, while supporting real-time monitoring with adjustable limits.
 
@@ -10,6 +16,9 @@ This project implements a wearable health monitoring system using an ESP32 micro
 * **User Interaction:** Buttons allow changing display modes and adjusting HR/temperature limits.
 * **Real-time Processing:** Tasks run on FreeRTOS for multitasking and I²C mutex protection.
 * **Limits & Alerts:** Configurable HR and temperature thresholds.
+
+
+
 
 ## Hardware
 
